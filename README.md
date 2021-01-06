@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Jose Storopoli 👋
 
-<!--
-**storopoli/storopoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
 
-Here are some ideas to get you started:
+📚 I'm a Chief Data Scientist, Associate Professor and Researcher at [Universidade Nove de Julho - UNINOVE](https://www.uninove.br) located in São Paulo - Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 I teach undergraduate and graduate courses in [Statistics](https://storopoli.io/Estatistica), [Bayesian Statistics](https://storopoli.io/Estatistica-Bayesiana), [Machine Learning, Deep Learning and Data Science](https://storopoli.io/ciencia-de-dados) using R, Python and Julia.
+
+🧠 Researches, publishes and advises PhD candidates on topics about Smart Cities and Urban Planning.
+
+✅ Certified [RStudio Tidyverse Instructor](https://education.rstudio.com/trainers/people/storopoli+jose/).
+
+</samp>
