@@ -11,3 +11,10 @@
 ✅ Certified [RStudio Tidyverse Instructor](https://education.rstudio.com/trainers/people/storopoli+jose/).
 
 </samp>
+
+---
+<center>
+  
+[![storopoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=storopoli&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=storopoli&count_private=true&show_icons=true)
+
+</center>
