@@ -28,3 +28,6 @@ Here's a list of some resources that I've made or contributed:
 I don't have social media, since I think they are overrated
 and "they sell your data".
 If you want to contact me, please send an email.
+
+For career opportunities, check my [CV](https://github.com/storopoli/cv/releases/latest/download/cv.pdf)
+and my website [storopoli.io](https://storopoli.io/).
