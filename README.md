@@ -19,8 +19,7 @@ Everything that I do is either open source
 or has a permissive Creative Commons license.
 "Open source everything".
 
-I don't have social media, since I think they are overrated
-and "they sell your data".
+I have a professional X account at [@jose_storopoli](https://x.com/jose_storopoli).
 If you want to contact me, please
 [send an email](mailto:jose@storopoli.com),
 my PGP key can be located at [`storopoli.com/publickey.txt`](https://storopoli.com/publickey.txt).
