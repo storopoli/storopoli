@@ -1,9 +1,16 @@
-I am a software developer with a PhD and background in
-Computational Statistics.
-I primarily work with cryptography,
-zero-knowledge protocols,
+I have PhD and background in Computational Statistics.
+Most of what I do now is security engineering on infrastructure,
+protocol, and engineering; and interfacing with multiple teams,
+processes, and tools.
+I build and maintain AI-enabled security audit workflow and processes automations
+with bespoke AI red-team harnesses for defensive purposes;
+and security-focused monitoring and alerting tools.
+
+My work revolves around cryptography,
+zero-knowledge protocols and zkVMs,
 censorship-resistant tools,
-and distributed systems.
+and distributed systems,
+mostly in Rust, a little bit in Haskell.
 
 If you are in a bad day, grab a curated Stoicism piece of advice at
 [`stoicquotes.io`](https://stoicquotes.io).
